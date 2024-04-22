@@ -16,7 +16,9 @@
   - [Content](#Content)
   - [Closing paragraph](#Closing-paragraph)
   - [Signature](#Signature)
-- článek (není hotovo)
+- [Článek](#Článek)
+  - [Nadpis](#Nadpis)
+  - [Text článku](#Text-Článku)
 - blog (není hotovo)
 
 *****
@@ -180,7 +182,7 @@ Není nutné, abyste se u neformálního dopisu v angličtině podepisovali cel�
 
 ## Článek
 
-### NADPIS
+### Nadpis
 
 Každý článek potřebuje svůj nadpis. Nadpis je totiž to, co má nadchnout čtenáře k pokračování ve čtení článku, ať už se jedná o článek v novinách, časopisu nebo na internetu. I Váš maturitní článek musí tedy svůj nadpis mít. Nadpis se musí vztahovat k tématu daným zadáním a měl by čtenáře zaujmout.
 
@@ -194,7 +196,7 @@ Příklady vhodných nadpisů článků:
 - School Trip I Will Never Forget (Školní výlet na který nikdy nezapomenu – čtenář chce číst dál, protože ho zajímá, na co že to autor asi nikdy nezapomene)
 - School Concert I Did Not Like at All (Školní koncert, který se mi vůbec nelíbil – čtenáře bude zajímat, proč se kocert autorovi nelíbil a bude chtít číst dál)
 
-### TEXT ČLÁNKU
+### Text Článku
 
 Nejdelší částí článku je text článku, který musí splňovat dva základní požadavky:
 
