@@ -10,7 +10,7 @@
   - [Odkaz na budoucí komunikaci](#Odkaz-na-budoucí-komunikaci)
   - [Projev ochoty pomoct](#Projev-ochoty-pomoct)
   - [Signature](#Signature_f)
-- neformální dopis (není hotovo)
+- [Neformální dopis](#Neformální-dopis) | ZDROJ: [anglictine-bez-biflovani.cz](https://www.anglictina-bez-biflovani.cz/neformalni-dopis)
   - [Date](#Date)
   - [Salutation](#Salutation)
   - [Content](#Content)
@@ -125,7 +125,7 @@ Neznáme příjemce dopisu, pak píšeme:
 
 Váš podpis je poslední částí formálního dopisu. Napište jej elektronicky, přidejte však i vlastnoruční podpis. Umístěte jej nalevo, řádek pod závěr.
 
-## Neformální Dopis
+## Neformální dopis
 ### Date
 
 Datum není u neformálního dopisu požadováno. Pokud jej však chcete uvést, umístěte jej do pravého horního rohu dopisu ve formátu: 17 June, 2016
@@ -133,56 +133,70 @@ Datum není u neformálního dopisu požadováno. Pokud jej však chcete uvést,
 ### Salutation
 
 Oslovení v neformálním dopisu v angličtině je více hovorové, uvolněné a přátelské. Je nepostradatelnou částí dopisu a je od dalšího textu odděleno volným řádkem.
-Neformální dopis - oslovení
-Dear Andy, - Drahá Andy,
-Dearest Andy, - Nejdražší Andy,
-Dear Jacob, - Drahý Jacobe,
-Dear Mum/Dad, - Drahá maminko/tatínku,
-Hi, - Ahoj,
-Hello John, - Ahoj Johne,
-My dear, - Drahý,
-My dearest, - Můj nejdražší,
-Thomas, - Tomáši,
+- Dear Andy, - Drahá Andy,
+- Dear Mum/Dad, - Drahá maminko/tatínku,
+- Hi, - Ahoj,
+- Hello John, - Ahoj Johne,
+- My dear, - Drahý,
 
 ### Content
 
 Neformální dopis v angličtině obecně zahrnuje několik základních důvodů, proč bývá napsán. Tato část je také nejdelší a vyjadřuje samou podstatu dopisu. Jedněmi z klasických příkladů a frází hlavního sdělení v neformálním dopisu jsou:
-I hope you're well. 	Doufám, že se máš dobře.
-I'm writing to you because… 	Píšu ti, protože…
-Hey, how are you? 	Ahoj! Jak se máš?
-I'd like to tell you some news… 	Rád/a bych ti řekl/a pár novinek…
-Have you made any plans for…? 	Už máš nějaké plány na…?
-I'm delighted to announce that… 	S potěšením oznamují, že…
-Good to see you again last week. 	Rád/a jsem tě minulý týden viděl/a.
-I want to thank you for your postcard / invitation / present… 	Chci ti poděkovat za pohlednici / pozvání / dárek…
-Sorry it's taken me so long to write. 	Omlouvám se, že jsem tak dlouho nenapsal/a.
-Look forward to seeing you soon. 	Těším se na brzké shledání.
-I was so sorry to hear that… 	Je mi moc líto, že…
-I'm sorry to inform you that… 	Je mi líto, že tě musím informovat o…
-I've just recieved your letter. 	Právě jsem dostal/a tvůj dopis.
-It was nice to hear from you. 	Je hezké, že ses ozval/a.
-Give my regards to your Mum and Dad / sister. 	Pozdravuj ode mě tvoji maminku a tatínka / sestru.
-Do write back as I'm waiting for the news from you. 	Ozvi se mi zpět, těším se na novinky.
+- I hope you're well. 	Doufám, že se máš dobře.
+- I'm writing to you because… 	Píšu ti, protože…
+- Hey, how are you? 	Ahoj! Jak se máš?
+- I'd like to tell you some news… 	Rád/a bych ti řekl/a pár novinek…
+- Have you made any plans for…? 	Už máš nějaké plány na…?
+- I'm delighted to announce that… 	S potěšením oznamují, že…
+- Good to see you again last week. 	Rád/a jsem tě minulý týden viděl/a.
+- I want to thank you for your postcard / invitation / present… 	Chci ti poděkovat za pohlednici / pozvání / dárek…
+- Sorry it's taken me so long to write. 	Omlouvám se, že jsem tak dlouho nenapsal/a.
+- I was so sorry to hear that… 	Je mi moc líto, že…
+- I've just recieved your letter. 	Právě jsem dostal/a tvůj dopis.
+- It was nice to hear from you. 	Je hezké, že ses ozval/a.
 
 ### Closing Paragraph
 
 V závěru neformální anglický dopis využívá jiné výrazy, než je tomu u formálních dopisů. Neformální dopis v angličtině můžete ukončit:
-Best wishes, 	S pozdravem,
-Hope to hear from you soon, 	Brzy se ozvi,
-Kind / Best regards, 	Srdečné pozdravy,
-With kind regards, 	Se srdečným pozdravem,
-Love, 	Líbá,
-Regards, 	Zdraví,
-See you, 	Uvidíme se,
-That's all for now, 	To je prozatím vše,
-Take care, 	Opatruj se,
-I love you, 	Miluji Tě,
-All the best, 	Jen to nejlepší,
-All my love, 	S láskou,
-Much love, 	S láskou,
-Lots of love, 	S láskou,
-XOXO, 	(Značí pusinky)
+- Best wishes, 	S pozdravem,
+- Hope to hear from you soon, 	Brzy se ozvi,
+- Kind / Best regards, 	Srdečné pozdravy,
+- With kind regards, 	Se srdečným pozdravem,
+- Love, 	Líbá,
+- Regards, 	Zdraví,
+- See you, 	Uvidíme se,
+- That's all for now, 	To je prozatím vše,
+- Take care, 	Opatruj se,
+- I love you, 	Miluji Tě,
+- All the best, 	Jen to nejlepší,
+- All my love, 	S láskou,
+- Much love, 	S láskou,
+- Lots of love, 	S láskou,
+- XOXO, 	(Značí pusinky)
 
 ### Signature
 
 Není nutné, abyste se u neformálního dopisu v angličtině podepisovali celým jménem. Jako podpis stačí pouze uvést vaše křestní jméno nebo přezdívku, kterou vás adresát oslovuje. Podpis uzavírá neformální dopis, měl by být dobře čitelný a oddělený od předešlého textu volným řádkem. Nachází se zpravidla nalevo, pod závěrem dopisu. 
+
+## Článek
+
+### NADPIS
+
+Každý článek potřebuje svůj nadpis. Nadpis je totiž to, co má nadchnout čtenáře k pokračování ve čtení článku, ať už se jedná o článek v novinách, časopisu nebo na internetu. I Váš maturitní článek musí tedy svůj nadpis mít. Nadpis se musí vztahovat k tématu daným zadáním a měl by čtenáře zaujmout.
+
+Ve víceslovném nadpisu nezapomeňte, že všechna slova kromě členů (the, a, an) a předložek (to, at, from, on…) píší velkým písmenem. Pokud je člen nebo předložka prvním slovem v nadpisu, bud psána velkým písmenem.
+
+Nadpis článku může být napsán nalevo nebo uprostřed a měl by být viditelně oddělen, například vynecháním jednoho řádku.
+
+Příklady vhodných nadpisů článků:
+
+- My Unusual Trip to London (Můj neobvyklý výlet do Londýna – čtenáře zaujme, protože přináší “něco neobvyklého”)
+- School Trip I Will Never Forget (Školní výlet na který nikdy nezapomenu – čtenář chce číst dál, protože ho zajímá, na co že to autor asi nikdy nezapomene)
+- School Concert I Did Not Like at All (Školní koncert, který se mi vůbec nelíbil – čtenáře bude zajímat, proč se kocert autorovi nelíbil a bude chtít číst dál)
+
+### TEXT ČLÁNKU
+
+Nejdelší částí článku je text článku, který musí splňovat dva základní požadavky:
+
+- musí obsahovat úvod, hlavní část článku a závěr (nejlépe v jednotlivých odstavcích)
+- musí být vypracován na základě jednotlivých bodů zadání (všechny body zadání musí být zmíněny a rozpracovány)
