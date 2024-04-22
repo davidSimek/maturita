@@ -45,7 +45,7 @@ Výrazy pro představení se, vaše pozice ve vztahu k tomu, proč píšete apod
 - I am a customer … 	Jsem zákazník …
 
 
-### Purpose_f
+### Purpose
 
 Nejčastější vyjádření důvodu, proč píšete - an enquiry, complain, request, etc. (dotaz, stížnost, žádost, atp.):
 I am writing in regards of… 	Píši kvůli…
