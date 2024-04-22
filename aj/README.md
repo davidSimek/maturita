@@ -5,11 +5,13 @@
 - [formální dopis](#Formální-dopis) | ZDROJ: [anglictina-bez-biflovani.cz](https://www.anglictina-bez-biflovani.cz/formalni-dopis)
   - [Date](#Date_f)
   - [Salutation](#Salutation_f)
-  - [Purpose](#Purpose)
   - [Content](#Content_f)
+    - [Opening Paragraph](#Opening-Paragraph)
+    - [Purpose](#Purpose)
   - [Closing Paragraph](#Closing-Paragraph_f)
-  - [Odkaz na budoucí komunikaci](#Odkaz-na-budoucí-komunikaci)
-  - [Projev ochoty pomoct](#Projev-ochoty-pomoct)
+    - [Poděkování](#Poděkování)
+    - [Odkaz na budoucí komunikaci](#Odkaz-na-budoucí-komunikaci)
+    - [Projev ochoty pomoct](#Projev-ochoty-pomoct)
   - [Signature](#Signature_f)
 - [Neformální dopis](#Neformální-dopis) | ZDROJ: [anglictine-bez-biflovani.cz](https://www.anglictina-bez-biflovani.cz/neformalni-dopis)
   - [Date](#Date)
@@ -41,14 +43,14 @@ Content (sdělení - text dopisu)
 
 ### Content_f
 Samotný text dopisu rozdělujeme na představení se a uvedení důvodu, proč dopis píšeme. Mezi nejčastější úvodní věty formálního dopisu řadíme:
-- Opening Paragraph - Introduce yourself (Představení se)
+#### Opening Paragraph
 
 Výrazy pro představení se, vaše pozice ve vztahu k tomu, proč píšete apod.:
 - I am a sales representative of Crunch Ltd. … 	Jsem obchodní zástupce firmy Crunch s.r.o. …
 - I am a customer … 	Jsem zákazník …
 
 
-### Purpose
+#### Purpose
 
 Nejčastější vyjádření důvodu, proč píšete - an enquiry, complain, request, etc. (dotaz, stížnost, žádost, atp.):
 - I am writing in regards of… 	Píši kvůli…
