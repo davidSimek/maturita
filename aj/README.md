@@ -6,6 +6,7 @@
   - [Date](#Date_f)
   - [Salutation](#Salutation_f)
   - [Purpose](#Purpose)
+  - [Content](#Content_f)
   - [Closing Paragraph](#Closing-Paragraph_f)
   - [Odkaz na budoucí komunikaci](#Odkaz-na-budoucí-komunikaci)
   - [Projev ochoty pomoct](#Projev-ochoty-pomoct)
@@ -38,8 +39,9 @@ Neznáme příjemce dopisu, pak píšeme:
 V obchodním styku se často ještě před oslovením uvádí zákazníkovo číslo, číslo objednávky atd. Kromě toho je možné v dopisu uvést ještě "Věc", čemuž v e-mailové korespondenci odpovídá "Předmět" (Subject).
 Content (sdělení - text dopisu)
 
+### Content_f
 Samotný text dopisu rozdělujeme na představení se a uvedení důvodu, proč dopis píšeme. Mezi nejčastější úvodní věty formálního dopisu řadíme:
-Opening Paragraph - Introduce yourself (Představení se)
+- Opening Paragraph - Introduce yourself (Představení se)
 
 Výrazy pro představení se, vaše pozice ve vztahu k tomu, proč píšete apod.:
 - I am a sales representative of Crunch Ltd. … 	Jsem obchodní zástupce firmy Crunch s.r.o. …
