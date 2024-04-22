@@ -4,7 +4,7 @@ ZDROJ: [anglictina-bez-biflovani.cz](https://www.anglictina-bez-biflovani.cz/for
 ## obsah
 
 - [formální dopis](#Formální-dopis)
-  - [Title](#Title-/-salutation)
+  - [Salutation](#Salutation)
   - [Purpose](#Purpose)
   - [Closing Paragraph](#Closing-Paragraph)
   - [Odkaz na budoucí komunikaci](#Odkaz-na-budoucí-komunikaci)
@@ -16,7 +16,7 @@ ZDROJ: [anglictina-bez-biflovani.cz](https://www.anglictina-bez-biflovani.cz/for
 
 *****
 ## Formální dopis
-### Title / salutation
+### Salutation
 
 Oslovení je velmi důležitou součástí formálního dopisu. Mohou nastat dvě situace:
 
