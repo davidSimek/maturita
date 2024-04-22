@@ -8,14 +8,13 @@
   - [Closing Paragraph](#Closing-Paragraph)
   - [Odkaz na budoucí komunikaci](#Odkaz-na-budoucí-komunikaci)
   - [Projev ochoty pomoct](#Projev-ochoty-pomoct)
-  - [Signature](Signature)
+  - [Signature](#Signature)
 - neformální dopis (není hotovo)
 - článek (není hotovo)
 - blog (není hotovo)
 
 *****
 ## Formální dopis
-### Salutation
 
 Oslovení je velmi důležitou součástí formálního dopisu. Mohou nastat dvě situace:
 
