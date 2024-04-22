@@ -16,10 +16,9 @@
   - [Content](#Content)
   - [Closing paragraph](#Closing-paragraph)
   - [Signature](#Signature)
-- [Článek](#Článek)
+- [Článek](#Článek) | ZDROJ: [statnimaturita-anglictina.cz](https://www.statnimaturita-anglictina.cz/jak-napsat-excelentni-clanek-k-maturite-z-anglictiny)
   - [Nadpis](#Nadpis)
   - [Text článku](#Text-Článku)
-- blog (není hotovo)
 
 *****
 ## Formální dopis
