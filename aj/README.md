@@ -1,18 +1,17 @@
 # Angličtina Slohová práce
 
-ZDROJ: [anglictina-bez-biflovani.cz](https://www.anglictina-bez-biflovani.cz/formalni-dopis)
 ## obsah
 
-- [formální dopis](#Formální-dopis)
+- [formální dopis](#Formální-dopis) | ZDROJ: [anglictina-bez-biflovani.cz](https://www.anglictina-bez-biflovani.cz/formalni-dopis)
   - [Salutation](#Salutation)
   - [Purpose](#Purpose)
   - [Closing Paragraph](#Closing-Paragraph)
   - [Odkaz na budoucí komunikaci](#Odkaz-na-budoucí-komunikaci)
   - [Projev ochoty pomoct](#Projev-ochoty-pomoct)
   - [Signature](Signature)
-- neformální dopis
-- článek
-- blog
+- neformální dopis (není hotovo)
+- článek (není hotovo)
+- blog (není hotovo)
 
 *****
 ## Formální dopis
@@ -116,5 +115,3 @@ Neznáme příjemce dopisu, pak píšeme:
 - Yours Faithfully
 
 Váš podpis je poslední částí formálního dopisu. Napište jej elektronicky, přidejte však i vlastnoruční podpis. Umístěte jej nalevo, řádek pod závěr. 
-
-ZDROJ: [anglictina-bez-biflovani.cz](https://www.anglictina-bez-biflovani.cz/formalni-dopis)
