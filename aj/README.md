@@ -1,14 +1,22 @@
 # Angličtina Slohová práce
+
+ZDROJ: [anglictina-bez-biflovani.cz](https://www.anglictina-bez-biflovani.cz/formalni-dopis)
 ## obsah
 
-- formální dopis
+- [formální dopis](#Formální-dopis)
+  - [Title](#Title-/-salutation)
+  - [Purpose](#Purpose)
+  - [Closing Paragraph](#Closing-Paragraph)
+  - [Odkaz na budoucí komunikaci](#Odkaz-na-budoucí-komunikaci)
+  - [Projev ochoty pomoct](#Projev-ochoty-pomoct)
+  - [Signature](Signature)
 - neformální dopis
 - článek
 - blog
 
 *****
-## Formální dipis
-### Title / salutation (titul / oslovení)
+## Formální dopis
+### Title / salutation
 
 Oslovení je velmi důležitou součástí formálního dopisu. Mohou nastat dvě situace:
 
@@ -29,7 +37,7 @@ Výrazy pro představení se, vaše pozice ve vztahu k tomu, proč píšete apod
 - I am a customer … 	Jsem zákazník …
 
 
-### Purpose (důvod)
+### Purpose
 
 Nejčastější vyjádření důvodu, proč píšete - an enquiry, complain, request, etc. (dotaz, stížnost, žádost, atp.):
 I am writing in regards of… 	Píši kvůli…
@@ -65,7 +73,7 @@ Další užitečné fráze
 - I would like to point out - musím zdůraznit
 - I look forward to - těším se, že
 
-### Closing Paragraph (závěr)
+### Closing Paragraph
 
 #### Poděkování
 
@@ -97,7 +105,7 @@ Výrazy ukazující, že chcete pomoct jsou např.:
 - Please let me know if you have any questions. 	Ozvěte se mi prosím, budete-li mít jakékoliv dotazy.
 
 
-### Signature (podpis)
+### Signature
 
 Závěr, za kterým se nepíše čárka a následuje za ním na další řádce podpis, opět rozlišujeme dle toho, zda známe či neznáme toho, komu dopis píšeme.
 
