@@ -2,6 +2,8 @@
 
 ## obsah
 
+*****
+
 - [formální dopis](#Formální-dopis) | ZDROJ: [anglictina-bez-biflovani.cz](https://www.anglictina-bez-biflovani.cz/formalni-dopis)
   - [Date](#Date_f)
   - [Salutation](#Salutation_f)
@@ -13,12 +15,18 @@
     - [Odkaz na budoucí komunikaci](#Odkaz-na-budoucí-komunikaci)
     - [Projev ochoty pomoct](#Projev-ochoty-pomoct)
   - [Signature](#Signature_f)
+
+*****
+
 - [Neformální dopis](#Neformální-dopis) | ZDROJ: [anglictine-bez-biflovani.cz](https://www.anglictina-bez-biflovani.cz/neformalni-dopis)
   - [Date](#Date)
   - [Salutation](#Salutation)
   - [Content](#Content)
   - [Closing paragraph](#Closing-paragraph)
   - [Signature](#Signature)
+
+*****
+
 - [Článek](#Článek) | ZDROJ: [statnimaturita-anglictina.cz](https://www.statnimaturita-anglictina.cz/jak-napsat-excelentni-clanek-k-maturite-z-anglictiny)
   - [Nadpis](#Nadpis)
   - [Text článku](#Text-Článku)
